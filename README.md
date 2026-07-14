@@ -6,9 +6,9 @@ My personal portfolio website built to showcase my journey as a Java developer, 
 
 ---
 
-## 📸 Preview
+## 📸 Portfolio Preview
 
-> ss
+![Portfolio Preview](assets/prathvi-portfolio.png)
 
 ---
 
@@ -47,7 +47,7 @@ It will continue evolving as I build more Java Full Stack projects.
 - Git
 - GitHub
 - Vercel
-
+- genAi
 ## 🛠 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -122,7 +122,7 @@ While building this project I learned about:
 - Contact form
 - SEO improvements
 - Performance optimization
-
+  
 ---
 
 ## 👨‍💻 Author
@@ -130,7 +130,7 @@ While building this project I learned about:
 **Prathvi Chauhan**
 
 - 🌐 Portfolio: https://prathvi-portfolio-v1.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/prathvi-chauhan
+- 💼 LinkedIn: https://www.linkedin.com/in/prathvi-chauhan-0b4402392?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 💻 GitHub: https://github.com/prithvinevercodes-ctrl
 
 ---
